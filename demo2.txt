@@ -1,1 +1,7 @@
 new file
+
+
+
+This is a java code.
+Print statement.
+Program ends.
